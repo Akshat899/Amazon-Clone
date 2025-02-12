@@ -1,8 +1,5 @@
 # 🛒 Amazon Clone - E-Commerce Website
 
-## 🌐 Live Demo
-> [Visit the Website](#) *(Replace with your actual website link if deployed)*
-
 ## 📌 Overview
 This is a **fully responsive, professional, and polished** Amazon Clone website designed to showcase **UI/UX design prowess** in creating modern e-commerce platforms. The website features a **stunning homepage, product pages, cart system, and user-friendly navigation**, ensuring a seamless shopping experience.
 
